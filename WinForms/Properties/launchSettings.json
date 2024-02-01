@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WinForms": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
